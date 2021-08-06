@@ -1,5 +1,5 @@
 # Wayang_Kulit_CNN
-**Shadow Puppets Image Classification Using CNN**
+**Klasifikasi Gambar Wayang Kulit Menggunakan Algoritma CNN dan Framework Keras**
 
 Merupakan program pengujian 11 citra wayang kulit menggunakan CNN dan Keras.
 Citra wayang kulit yang digunakan adalah Werkudara, Yudistira, Bathara Surya, Bathara Wisnu, Arjuna, Nakula, Sadewa, Semar, Gareng, Bagong, dan Petruk. 
