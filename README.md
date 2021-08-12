@@ -1,6 +1,5 @@
 # Wayang_Kulit_CNN
-**Klasifikasi Gambar Wayang Kulit Menggunakan Algoritma CNN dan Framework Keras**
-**Classification of Shadow Puppet Images Using the CNN Algorithm and Keras Framework**
+**Klasifikasi Gambar Wayang Kulit Menggunakan Algoritma CNN dan Framework Keras** (**Classification of Shadow Puppet Images Using the CNN Algorithm and Keras Framework**)
 
 It is a program of testing 11 shadow puppet images using CNN and Keras. The shadow puppet images used are Werkudara, Yudistira, Bathara Surya, Bathara Vishnu, Arjuna, Nakula, Sadewa, Semar, Gareng, Bagong, and Petruk. This introduction program is using 2 test models, namely the Sequential model and the VGG16 ontop model that runs on the Google Collaboratory and Keras applications. The test data in this study were 1850 training data images and 330 test data images that resulted in an evaluation value with an accuracy value of 98.48% and loss value of 0.077 on the Sequential model and 99.70 accuracy value % and loss value 0.021 on the ontop VGG16 model.
 
